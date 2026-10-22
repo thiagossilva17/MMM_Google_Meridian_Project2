@@ -1,0 +1,17 @@
+PASS AST: 44 functions; notebook schema and all code cells compile; guide byte-identical.
+Painel: (6240, 19)
+SHA-256 validado: d9ee016f7cd21f5c90b50da10a794af91a372b69f881d3caa266edd41fdafbf6
+RUN 00 data_audit
+PASS 00
+RUN 01 general
+PASS 01
+RUN 02 temporal
+PASS 02
+RUN 03 geo_analysis
+PASS 03
+RUN 04 media_geo
+PASS 04
+RUN 05 relationships
+PASS 05
+PASS numeric comparison: 80 tables
+{"source_commit": "ef39d0a7629e849d31582cea6cefccb581f7a445", "schema_valid": true, "all_code_cells_compile": true, "analytical_functions_AST_equivalent": 44, "original_files_byte_identical": 293, "figures_embedded": 79, "six_custom_stages_executed": true, "tables_numerically_equal": 80, "comparison_tolerance": {"rtol": 1e-10, "atol": 1e-09}, "provenance_modified_artifact_rejected": true, "provenance_modified_function_rejected": true, "official_meridian_reexecuted": false, "conclusions_execution_repeated": false, "colab_service_validated": false, "historical_outputs_retained": true}

@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+outputs/.mplcache/
+*.pyc
+EDA_RESULTS.zip
+outputs/figures/**/*.png

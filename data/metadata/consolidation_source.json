@@ -1,0 +1,184 @@
+{
+  "source_commit": "ef39d0a7629e849d31582cea6cefccb581f7a445",
+  "source_repository": "thiagossilva17/MMM_Google_Meridian_Project",
+  "function_transfers": [
+    {
+      "module": "config",
+      "function": "directories"
+    },
+    {
+      "module": "data",
+      "function": "channels"
+    },
+    {
+      "module": "data",
+      "function": "roles"
+    },
+    {
+      "module": "data",
+      "function": "load_panel"
+    },
+    {
+      "module": "data",
+      "function": "analytical_columns"
+    },
+    {
+      "module": "data",
+      "function": "national"
+    },
+    {
+      "module": "validation",
+      "function": "audit"
+    },
+    {
+      "module": "validation",
+      "function": "require_valid_panel"
+    },
+    {
+      "module": "validation",
+      "function": "dictionary"
+    },
+    {
+      "module": "statistics",
+      "function": "safe_divide"
+    },
+    {
+      "module": "statistics",
+      "function": "describe"
+    },
+    {
+      "module": "plots",
+      "function": "save"
+    },
+    {
+      "module": "plots",
+      "function": "heatmap"
+    },
+    {
+      "module": "plots",
+      "function": "bars"
+    },
+    {
+      "module": "plots",
+      "function": "lines"
+    },
+    {
+      "module": "plots",
+      "function": "scatter"
+    },
+    {
+      "module": "reporting",
+      "function": "table"
+    },
+    {
+      "module": "reporting",
+      "function": "result"
+    },
+    {
+      "module": "investigation",
+      "function": "read"
+    },
+    {
+      "module": "investigation",
+      "function": "export"
+    },
+    {
+      "module": "investigation",
+      "function": "iqr_flags"
+    },
+    {
+      "module": "investigation",
+      "function": "enrich"
+    },
+    {
+      "module": "investigation",
+      "function": "figure_comment"
+    },
+    {
+      "module": "eda",
+      "function": "data_audit"
+    },
+    {
+      "module": "statistics",
+      "function": "outliers"
+    },
+    {
+      "module": "investigation",
+      "function": "outlier_investigation"
+    },
+    {
+      "module": "investigation",
+      "function": "activity_investigation"
+    },
+    {
+      "module": "eda",
+      "function": "general"
+    },
+    {
+      "module": "investigation",
+      "function": "temporal_investigation"
+    },
+    {
+      "module": "eda",
+      "function": "temporal"
+    },
+    {
+      "module": "statistics",
+      "function": "variance_decomposition"
+    },
+    {
+      "module": "geo_analysis",
+      "function": "geo_analysis"
+    },
+    {
+      "module": "geo_analysis",
+      "function": "per_capita_matrix"
+    },
+    {
+      "module": "investigation",
+      "function": "media_investigation"
+    },
+    {
+      "module": "geo_analysis",
+      "function": "media_geo"
+    },
+    {
+      "module": "statistics",
+      "function": "vif_table"
+    },
+    {
+      "module": "investigation",
+      "function": "relationship_investigation"
+    },
+    {
+      "module": "eda",
+      "function": "relationships"
+    },
+    {
+      "module": "official_review",
+      "function": "long_frame"
+    },
+    {
+      "module": "official_review",
+      "function": "source_variable"
+    },
+    {
+      "module": "official_review",
+      "function": "compare_and_review"
+    },
+    {
+      "module": "official_eda",
+      "function": "official_eda"
+    },
+    {
+      "module": "investigation",
+      "function": "integrated_review"
+    },
+    {
+      "module": "reporting",
+      "function": "conclusions"
+    }
+  ],
+  "figures_embedded": 79,
+  "historical_outputs": true
+}
